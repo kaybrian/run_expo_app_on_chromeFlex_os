@@ -23,23 +23,22 @@ This is a simple app that just shows you how to run expo app on your device when
 ### Installation
 
 1. Clone the repository:
+   ```
+    git clone https://github.com/kaybrian/run_expo_app_on_chromeFlex_os.git
+    ```
 
-   ```bash
-  git clone https://github.com/kaybrian/run_expo_app_on_chromeFlex_os.git
-  ```
 2. Navigate to the project directory:
-```
-cd run_expo_app_on_chromeFlex_os
-```
+   
+  ```
+  cd run_expo_app_on_chromeFlex_os
+  ```
 
 3. Install dependencies:
-```
-npm install
-```
-
+  ```
+  npm install
+  ```
 4.  run the application on your device
-
-```
-npm run start:tunnel 
-```
-
+  ```
+  npm run start:tunnel 
+  ```
+  
